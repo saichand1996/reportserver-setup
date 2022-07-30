@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.dropbox.client.dropbox.rpc.DropboxRpcService
+path: 64BE3FB9ACC0E1BEF04D4435F2874725.gwt.rpc

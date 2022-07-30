@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.printer.client.printer.rpc.PrinterRpcService
+path: 571E4724E92B4B613F4DC82B183E4B90.gwt.rpc

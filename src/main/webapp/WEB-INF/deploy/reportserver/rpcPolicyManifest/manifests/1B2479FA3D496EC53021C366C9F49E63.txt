@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.usermanager.ext.client.eximport.im.rpc.UserManagerImportRpcService
+path: 8290A4A3AC828191C691438243CD63BC.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.datasinkmanager.rpc.DatasinkTreeLoader
+path: 695A6D2BDA31A1A7764F02D2ACE09FE8.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.security.ext.client.security.rpc.SecurityRpcService
+path: E20676CF1084DCE5F9A4D6DE5EC3971D.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.datasourcemanager.rpc.DatasourceTreeLoader
+path: 9BBECEC54A00F84B4B71D0B949775441.gwt.rpc

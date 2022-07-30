@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.teamspace.client.teamspace.rpc.TeamSpaceRpcService
+path: 2EAB35557004A1C514708689473E620B.gwt.rpc

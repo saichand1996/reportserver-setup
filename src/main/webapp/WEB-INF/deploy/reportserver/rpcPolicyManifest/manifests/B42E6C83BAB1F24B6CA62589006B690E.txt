@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.onedrive.client.onedrive.rpc.OneDriveRpcService
+path: 68C5BB99E78AE6723DE5A9FF4C8AB441.gwt.rpc

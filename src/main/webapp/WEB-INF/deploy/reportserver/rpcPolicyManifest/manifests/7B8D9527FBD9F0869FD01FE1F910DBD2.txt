@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.gf.client.localization.rpc.LocalizationRpcService
+path: 8AA853A8FCA9A265FD081EE1E95184D3.gwt.rpc

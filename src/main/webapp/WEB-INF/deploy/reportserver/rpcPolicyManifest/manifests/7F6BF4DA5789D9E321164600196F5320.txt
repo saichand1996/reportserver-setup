@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.contexthelp.rpc.ContextHelpRpcService
+path: 17AFB8279F4A8FE3BDAB71D91E5E0772.gwt.rpc

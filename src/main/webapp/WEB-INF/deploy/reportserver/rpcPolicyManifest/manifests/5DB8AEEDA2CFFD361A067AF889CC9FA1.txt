@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.computedcolumns.client.computedcolumns.rpc.ComputedColumnsRpcService
+path: 417FFF10D2ECDE32EF87D4E965C34A69.gwt.rpc

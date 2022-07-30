@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.tabledatasink.client.tabledatasink.rpc.TableDatasinkRpcService
+path: 8AC5718F10FD62ED9E82A7305AC64472.gwt.rpc

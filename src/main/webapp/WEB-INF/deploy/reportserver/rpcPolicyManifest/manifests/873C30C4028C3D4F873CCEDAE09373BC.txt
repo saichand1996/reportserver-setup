@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.gf.client.fileselection.rpc.FileSelectionRpcService
+path: E48E82B797F07C17453AABEE8602BC2E.gwt.rpc

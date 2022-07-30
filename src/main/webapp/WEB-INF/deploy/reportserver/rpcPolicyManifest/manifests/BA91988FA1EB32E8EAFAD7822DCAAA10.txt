@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.adminutils.client.datasourcetester.rpc.DatasourceTesterRPCService
+path: EF6071CC3E89D260AFADD3E85962729F.gwt.rpc

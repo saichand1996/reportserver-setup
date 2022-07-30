@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.scheduleasfile.client.scheduleasfile.rpc.ScheduleAsFileRpcService
+path: 644435582E6E47ED97291528052412D2.gwt.rpc

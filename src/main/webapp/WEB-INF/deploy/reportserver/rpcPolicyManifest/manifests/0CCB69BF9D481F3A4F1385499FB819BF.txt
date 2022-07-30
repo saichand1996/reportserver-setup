@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.base.ext.client.datasinkmanager.eximport.im.rpc.DatasinkManagerImportRpcService
+path: D798C07A5E1D9D6544FD5A21EFC374A0.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.dashboard.client.dashboard.rpc.DashboardTreeManager
+path: 60D9D1C373CBEB80EB73A1E418E63C1B.gwt.rpc

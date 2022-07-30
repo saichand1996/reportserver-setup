@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.legacysaiku.client.saiku.SaikuRpcService
+path: B774860BCEA773A23481172552FC7036.gwt.rpc

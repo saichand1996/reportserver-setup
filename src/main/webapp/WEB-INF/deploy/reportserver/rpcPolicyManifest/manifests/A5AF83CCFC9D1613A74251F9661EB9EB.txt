@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.adminutils.client.suuser.rpc.SuUserRpcService
+path: 285BE11A48676615491B6EF02DA5CA67.gwt.rpc

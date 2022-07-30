@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.search.client.search.rpc.SearchRpcService
+path: 9843166ABCDCCA8882F03C47B88A7B24.gwt.rpc

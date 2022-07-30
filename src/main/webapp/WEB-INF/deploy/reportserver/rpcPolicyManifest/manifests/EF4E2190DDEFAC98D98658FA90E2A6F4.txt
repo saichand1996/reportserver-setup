@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.enterprise.client.rpc.EnterpriseCheckRpcService
+path: 57A005AAD49E6C637CD9BC237402BF39.gwt.rpc

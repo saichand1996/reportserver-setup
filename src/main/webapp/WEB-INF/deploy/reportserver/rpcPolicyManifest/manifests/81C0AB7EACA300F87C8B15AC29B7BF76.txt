@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.amazons3.client.amazons3.rpc.AmazonS3RpcService
+path: 4B950CBC81DBBF9DC63C18BF4A08ED27.gwt.rpc

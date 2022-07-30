@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.base.ext.client.reportmanager.eximport.im.rpc.ReportManagerImportRpcService
+path: 48CEE4158B28A829B7277B28356CF0EE.gwt.rpc

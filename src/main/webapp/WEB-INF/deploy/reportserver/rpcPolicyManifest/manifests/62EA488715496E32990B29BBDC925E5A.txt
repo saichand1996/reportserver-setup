@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.tsreportarea.client.tsreportarea.rpc.TsDiskRpcService
+path: 6C60DC1355C6301C258F61D9CD2A0D7E.gwt.rpc

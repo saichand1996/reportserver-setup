@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.adminutils.client.systemconsole.generalinfo.rpc.GeneralInfoRpcService
+path: F321CF471B7817114F45D7751810AF4E.gwt.rpc

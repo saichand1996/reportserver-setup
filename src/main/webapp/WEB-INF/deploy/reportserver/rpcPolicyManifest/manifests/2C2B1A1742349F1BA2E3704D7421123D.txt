@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.tabletemplate.client.tabletemplate.rpc.TableTemplateRpcService
+path: 95CF64AEF349F7F25A19C657F882FE2A.gwt.rpc
